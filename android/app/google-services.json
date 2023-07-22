@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592898123158",
+    "project_id": "digi-forest",
+    "storage_bucket": "digi-forest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592898123158:android:85fce45ae0d222f2d3e9b7",
+        "android_client_info": {
+          "package_name": "com.example.digi_forest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592898123158-pgi3m6i4emq4ejm8kl2b64b2cndfi5ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHFK_AsripyEdWE3RLvDihwbdNpE_lol0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592898123158-pgi3m6i4emq4ejm8kl2b64b2cndfi5ok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
